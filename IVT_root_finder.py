@@ -1,7 +1,7 @@
 
 import math
 
-def sign(a,b): #compares the sign of two numbers: sign > 0 iff a and b have same sign
+def sign(a,b): #compares the sign of two numbers: sign > 0 if a and b have the same sign
     return a*b
  
        
